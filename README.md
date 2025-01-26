@@ -4,6 +4,8 @@
 
 I've experienced multiple instances where Google Chrome fails to upgrade on openSUSE to the latest version using the built-in update process. 
 
+![Alt text](chrome-upgrade-error.png?raw=true "Chrome Upgrade Error")
+
 In these situations, my workaround has been to uninstall Chrome and then reinstall it using the latest RPM.
 
 ## Usage
